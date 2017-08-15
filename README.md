@@ -1,4 +1,4 @@
-# NETEASE_ProgrammingTest-2017-autumn
+# 网易2017秋招内推笔试编程题
 ### 1、[编程题] 彩色的砖块<br>
 时间限制：1秒<br>
 空间限制：32768K<br>
